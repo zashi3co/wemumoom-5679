@@ -1,0 +1,87 @@
+English language and style
+( ) Extensive editing of English language and style required
+( ) Moderate English changes required
+(x) English language and style are fine/minor spell check required
+( ) I don't feel qualified to judge about the English language and style
+
+Yes 	Can be improved 	Must be improved 	Not applicable
+Does the introduction provide sufficient background and include all relevant references?
+	( ) 	( ) 	(x) 	( )
+Is the research design appropriate?
+	( ) 	(x) 	( ) 	( )
+Are the methods adequately described?
+	( ) 	( ) 	(x) 	( )
+Are the results clearly presented?
+	( ) 	( ) 	(x) 	( )
+Are the conclusions supported by the results?
+	( ) 	( ) 	(x) 	( )
+
+Comments and Suggestions for Authors
+
+The author picks up P.F. Strawson’s paper “Freedom and Resentment”
+to discuss moral determinism, moral responsibility and the role of
+reactive attitudes in morality. Strawson, in his/her view,
+presents a view of moral responsibility which gives pride of place
+to peoples reactive attitudes. The author wants to articulate a
+critique of this view, as s/he finds it in the work of what he
+calls “two continental thinkers”: Michel Foucault and Franz Kafka.
+S/he does not, however, side with either party, but leaves the
+issue in a kind of aporia at the end.
+
+The paper touches upon many interesting issues, but it remains as
+it stands, textually too dense, and conceptually too sprouting to
+do the job envisioned by the author in the abstract. There is also
+substantial mismatch between what the author promises to do and
+what s/he says in the conclusion, leaving a reader somewhat
+confused concerning the point of the paper. There are also
+interpretive problems and unclarities concerning the texts and
+authors engaged. Thus, I do not see the manuscript as ready for
+publication, although something interesting may well come out of
+this work at a later stage.
+
+Given that Strawson’s paper is the backbone of the article, it
+would be helpful for the reader if the author’s philosophical
+interest in this paper would be made more overt, and its potential
+contribution or relevance to contemporary philosophy more concise.
+Why read this paper today: what does it give us, which
+contemporary debates could or should it link to? What are the
+central issues in the author´s view: determinism, moral
+responsibility/agency, reactive attitudes in morality,
+modernity/modern moral philosophy? It seems like the author has
+not quite made up his mind yet.
+
+I am in principle sympathetic to the authors manner of engaging
+Kafka as a philosopher. The presentation of Kafka’s “view” is
+however too brief to be helpful here. A literary work or set of
+works of Kafka’s kind does not, as the author is aware, yield a
+philosophical position without a certain interpretive effort on
+the philosophical readers part. This particular reading (of the
+literary text/texts) should be made explicit, and properly fleshed
+out in the paper, to bring out an engaging and persuasive picture
+of the position attributed to Kafka or his work. Such a reading
+would also facilitate the concise formulation of what the author
+sees as “Kafkas position”, and how it stands in relation to
+Strawson (and Foucault).
+
+There is even less interpretive discussion of Foucault in the
+text, with the consequence that Foucault’s “position” (to be
+pitted against Strawson) remains somewhat elusive. We learn
+however that he is supposed to represent a “pessimistic” form of
+moral determinism, that he holds that “modernity has already
+largely progressed to a state where both individuals and
+collectives no longer meaningfully identify as moral agents” (p.
+3), that the aim of a genealogical study of a concept (in
+Foucault’s style) would be its collapse (p. 5), that he studies
+knowledge and sex/gender “to undermine the intrinsic power of
+these concepts to motivate behavior” (p. 5). As a description of
+Foucault’s work, I find these remarks off key, though in line with
+a certain misguided popular image of his work. Foucault is not in
+the business of showing the impossibility of moral agency or
+collapsing concepts, but rather meticulously tracing the
+historical coming to be of concepts, institutions, practices, and
+forms of agency, which seem to us inevitable (and thus universal).
+The question is: could this more subtle Foucault have a role in
+the debate with Strawson, and if he could, what would that role
+be?
+
+
